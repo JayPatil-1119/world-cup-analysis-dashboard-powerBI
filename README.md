@@ -56,7 +56,8 @@ Team-wise bowling strength comparison
 
 Insights into bowlers who made crucial breakthroughs
 
-<img width="943" height="533" alt="Screenshot 2025-12-26 114054" src="https://github.com/user-attachments/assets/c9eb7c75-c332-41a2-aeef-7791d148a251" />
+<img width="949" height="530" alt="Screenshot 2025-12-26 120857" src="https://github.com/user-attachments/assets/72b7c773-be57-47a8-a557-70cd9fdefddc" />
+
 
 ## 4. Observations & Key Insights
 Overall Tournament Insights
