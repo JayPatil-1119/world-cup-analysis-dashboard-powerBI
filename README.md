@@ -13,7 +13,7 @@ Lack of a consolidated view to identify top-performing players
 
 These challenges make it hard to evaluate performance and extract meaningful insights quickly.
 
-2. Objective
+## 2. Objective
 
 The objective of this project is to develop an interactive Power BI dashboard that:
 
@@ -27,7 +27,7 @@ Enables quick comparison across teams and players
 
 Presents insights through clean, intuitive visuals
 
-3. Dashboard Structure & Pages
+## 3. Dashboard Structure & Pages
 1️⃣ Overview Page
 
 Summary of matches, teams, runs, wickets, and outcomes
@@ -35,6 +35,8 @@ Summary of matches, teams, runs, wickets, and outcomes
 Team-wise performance comparison
 
 Overall tournament trends and dominance
+
+<img width="966" height="540" alt="Screenshot 2025-12-26 113938" src="https://github.com/user-attachments/assets/bf7829a1-a6fc-43dd-a8b6-3dcd5ab7d105" />
 
 2️⃣ Batting Performance Page
 
@@ -44,6 +46,8 @@ Comparison of batting contributions across players
 
 Highlights consistency and impact in scoring runs
 
+<img width="966" height="540" alt="Screenshot 2025-12-26 114012" src="https://github.com/user-attachments/assets/a3d137fb-20e2-4b6e-8fce-cb4684e8db07" />
+
 3️⃣ Bowling Performance Page
 
 Analysis of top wicket-takers
@@ -52,7 +56,9 @@ Team-wise bowling strength comparison
 
 Insights into bowlers who made crucial breakthroughs
 
-4. Observations & Key Insights
+<img width="943" height="533" alt="Screenshot 2025-12-26 114054" src="https://github.com/user-attachments/assets/c9eb7c75-c332-41a2-aeef-7791d148a251" />
+
+## 4. Observations & Key Insights
 Overall Tournament Insights
 
 Certain teams clearly dominated the tournament in terms of runs and match performance
@@ -75,7 +81,7 @@ Successful teams showed a balanced bowling attack
 
 Wicket-taking ability proved crucial in controlling matches
 
-5. Tools & Techniques Used
+## 5. Tools & Techniques Used
 
 Power BI
 
@@ -89,7 +95,7 @@ Interactive Visualizations
 
 Analytical Storytelling
 
-6. Conclusion
+## 6. Conclusion
 
 The World Cup Analysis Power BI Dashboard provides a comprehensive and interactive view of tournament performance, batting dominance, and bowling effectiveness. It helps transform complex cricket data into actionable insights, demonstrating strong skills in data analysis, visualization, and storytelling.
 
